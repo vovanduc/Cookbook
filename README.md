@@ -38,16 +38,16 @@ If you look for the old PDF version it's [here](https://github.com/andkret/Cookb
 
 -->
 
-# Contents:
-- [Introduction](sections/01-Introduction.md)
-- [Basic Engineering Skills](sections/02-BasicSkills.md)
-- [Advanced Engineering Skills](sections/03-AdvancedSkills.md)
-- [Hands On Course](sections/04-HandsOnCourse.md)‚
-- [Case Studies](sections/05-CaseStudies.md)
-- [Best Practices Cloud Platforms](sections/06-BestPracticesCloud.md)
-- [130+ Data Sources Data Science](sections/07-DataSources.md)
-- [1001 Interview Questions](sections/08-InterviewQuestions.md)
-- [Recommended Books and Courses](sections/09-BooksAndCourses.md)
+# #Quick Contents:
+- [Introduction](#Introduction)
+- [Basic Engineering Skills](#Basic-Engineering-Skills)
+- [Advanced Engineering Skills](#Advanced-Engineering-Skills)
+- [Hands On Course](#Hands-On-Course)‚
+- [Case Studies](#Case-Studies)
+- [Best Practices Cloud Platforms](#Best-Practices-Cloud-Platforms)
+- [130+ Data Sources Data Science](#130+-Data-Sources-Data-Science)
+- [1001 Interview Questions](#1001-Interview-Questions)
+- [Recommended Books and Courses](#Recommended-Books-and-Courses)
 <!--  -->
 
 - [How To Contribute](#how-to-contribute)
