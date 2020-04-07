@@ -1,4 +1,4 @@
-<!--- # The Data Engineering Cookbook -->
+<!--- # The Data Engineering Cookbook 
 
 <div align="center">
 	<img width="341" height="426" src="images/CookbookCover.jpg" alt="Data Engineering Cookbook">
@@ -17,13 +17,16 @@
 </p>
 
 <br>
+-->
 
-### This Book Is & Will Always Be Free!  But Please Support What You Like!
+![](images/CookbookCover.jpg)
+
+## This Book Is & Will Always Be Free!  But Please Support What You Like!
 - **Amazon:** [Click Here](https://www.amazon.com/shop/plumbersofdatascience) And buy whatever you like from Amazon* (Also check out my complete podcast gear and books)
 - **Patreon:** [Click Here](https://www.patreon.com/plumbersofds) Become a supporter on Patreon
 - **PayPal.me:** [Click Here](https://paypal.me/feedthestream) Send some support (Please include a message and I read and answer it in the next video)
 
-### I'm Doing Data Engineer Coaching To Help You On Your Journey:
+## I'm Doing Data Engineer Coaching To Help You On Your Journey:
 Do you need help becoming a Data Engineer and doing a personal project?
 I offer Data Engineer Coaching to help you on your journey.
 Go to my website **[teamdatascience.com](https://teamdatascience.com)** to learn more.
@@ -39,15 +42,15 @@ If you look for the old PDF version it's [here](https://github.com/andkret/Cookb
 -->
 
 # #Quick Contents:
-- [Introduction](#Introduction)
-- [Basic Engineering Skills](#Basic-Engineering-Skills)
-- [Advanced Engineering Skills](#Advanced-Engineering-Skills)
-- [Hands On Course](#Hands-On-Course)‚
-- [Case Studies](#Case-Studies)
-- [Best Practices Cloud Platforms](#Best-Practices-Cloud-Platforms)
-- [130+ Data Sources Data Science](#130+-Data-Sources-Data-Science)
-- [1001 Interview Questions](#1001-Interview-Questions)
-- [Recommended Books and Courses](#Recommended-Books-and-Courses)
+- [Introduction](#introduction)
+- [Basic Engineering Skills](#basic-engineering-skills)
+- [Advanced Engineering Skills](#advanced-engineering-skills)
+- [Hands On Course](#hands-on-course)‚
+- [Case Studies](#case-studies)
+- [Best Practices Cloud Platforms](#best-practices-cloud-platforms)
+- [130+ Data Sources Data Science](#130+-Data-sources-data-science)
+- [1001 Interview Questions](#1001-interview-questions)
+- [Recommended Books and Courses](#recommended-books-and-courses)
 <!--  -->
 
 - [How To Contribute](#how-to-contribute)
@@ -255,52 +258,52 @@ If you look for the old PDF version it's [here](https://github.com/andkret/Cookb
 
 ## Case Studies
 
-- [Data Science @Airbnb](#data-science-at-Airbnb)
-- [Data Science @Amazon](#data-science-at-Amazon)
-- [Data Science @Baidu](#data-science-at-Baidu)
-- [Data Science @Blackrock](#data-science-at-Blackrock)
-- [Data Science @BMW](#data-science-at-BMW)
-- [Data Science @Booking.com](#data-science-at-Booking.com)
-- [Data Science @CERN](#data-science-at-CERN)
-- [Data Science @Disney](#data-science-at-Disney)
-- [Data Science @DLR](#data-science-at-DLR)
-- [Data Science @Drivetribe](#data-science-at-Drivetribe)
-- [Data Science @Dropbox](#data-science-at-Dropbox)
-- [Data Science @Ebay](#data-science-at-Ebay)
-- [Data Science @Expedia](#data-science-at-Expedia)
-- [Data Science @Facebook](#data-science-at-Facebook)
-- [Data Science @Google](#data-science-at-Google)
-- [Data Science @Grammarly](#data-science-at-Grammarly)
-- [Data Science @ING Fraud](#data-science-at-ING-Fraud)
-- [Data Science @Instagram](#data-science-at-Instagram)
-- [Data Science @LinkedIn](#data-science-at-LinkedIn)
-- [Data Science @Lyft](#data-science-at-Lyft)
-- [Data Science @NASA](#data-science-at-NASA)
-- [Data Science @Netflix](#data-science-at-Netflix)
-- [Data Science @OLX](#data-science-at-OLX)
-- [Data Science @OTTO](#data-science-at-OTTO)
-- [Data Science @Paypal](#data-science-at-Paypal)
-- [Data Science @Pinterest](#data-science-at-Pinterest)
-- [Data Science @Salesforce](#data-science-at-Salesforce)
-- [Data Science @Siemens Mindsphere](#data-science-at-Siemens-Mindsphere)
-- [Data Science @Slack](#data-science-at-Slack)
-- [Data Science @Spotify](#data-science-at-Spotify)
-- [Data Science @Symantec](#data-science-at-Symantec)
-- [Data Science @Tinder](#data-science-at-Tinder)
-- [Data Science @Twitter](#data-science-at-Twitter)
-- [Data Science @Uber](#data-science-at-Uber)
-- [Data Science @Upwork](#data-science-at-Upwork)
-- [Data Science @Woot](#data-science-at-Woot)
-- [Data Science @Zalando](#data-science-at-Zalando)
+- [Data Science Airbnb](#data-science-at-airbnb)
+- [Data Science Amazon](#data-science-at-amazon)
+- [Data Science Baidu](#data-science-at-baidu)
+- [Data Science Blackrock](#data-science-at-blackrock)
+- [Data Science BMW](#data-science-at-bmw)
+- [Data Science Booking.com](#data-science-at-booking.com)
+- [Data Science CERN](#data-science-at-cern)
+- [Data Science Disney](#data-science-at-disney)
+- [Data Science DLR](#data-science-at-dlr)
+- [Data Science Drivetribe](#data-science-at-drivetribe)
+- [Data Science Dropbox](#data-science-at-dropbox)
+- [Data Science Ebay](#data-science-at-ebay)
+- [Data Science Expedia](#data-science-at-expedia)
+- [Data Science Facebook](#data-science-at-facebook)
+- [Data Science Google](#data-science-at-google)
+- [Data Science Grammarly](#data-science-at-grammarly)
+- [Data Science ING Fraud](#data-science-at-ing-fraud)
+- [Data Science Instagram](#data-science-at-instagram)
+- [Data Science LinkedIn](#data-science-at-linkedin)
+- [Data Science Lyft](#data-science-at-lyft)
+- [Data Science NASA](#data-science-at-nasa)
+- [Data Science Netflix](#data-science-at-netflix)
+- [Data Science OLX](#data-science-at-olx)
+- [Data Science OTTO](#data-science-at-otto)
+- [Data Science Paypal](#data-science-at-paypal)
+- [Data Science Pinterest](#data-science-at-pinterest)
+- [Data Science Salesforce](#data-science-at-salesforce)
+- [Data Science Siemens Mindsphere](#data-science-at-siemens-mindsphere)
+- [Data Science Slack](#data-science-at-slack)
+- [Data Science Spotify](#data-science-at-spotify)
+- [Data Science Symantec](#data-science-at-symantec)
+- [Data Science Tinder](#data-science-at-tinder)
+- [Data Science Twitter](#data-science-at-twitter)
+- [Data Science Uber](#data-science-at-uber)
+- [Data Science Upwork](#data-science-at-upwork)
+- [Data Science Woot](#data-science-at-woot)
+- [Data Science Zalando](#data-science-at-zalando)
 
 ## Best Practices Cloud Platforms
 
 - [Amazon Web Services (AWS)](#aws)
-  - [Connect](#Connect)
-  - [Buffer](#Buffer)
-  - [Processing](#Processing)
-  - [Store](#Store)
-  - [Visualize](#Visualize)
+  - [Connect](#connect)
+  - [Buffer](#buffer)
+  - [Processing](#processing)
+  - [Store](#store)
+  - [Visualize](#visualize)
   - [Containerization](#Containerization)
   - [Best Practices](#Best-Practices)
   - [More Details](#More-Details)
@@ -564,12 +567,12 @@ you the machine is ok even when there is an malfunction.
 Model outputs are very abstract. You also need to post-process the model
 outputs to receive the outputs you desire
 
-![The Machine Learning Pipeline](/images/Machine-Learning-Pipeline.jpg)
+![The Machine Learning Pipeline](images/Machine-Learning-Pipeline.jpg)
 
 
 ### Machine Learning Workflow
 
-![The Machine Learning Workflow](/images/Machine-Learning-Workflow.jpg)
+![The Machine Learning Workflow](images/Machine-Learning-Workflow.jpg)
 
 Data Scientists and Data Engineers. How does that all fit together?
 
@@ -610,7 +613,7 @@ This is the overall process how machine learning. It's how the learning part of 
 
 ### Machine Learning Model and Data
 
-![The Machine Learning Model](/images/Machine-Learning-Model.jpg)
+![The Machine Learning Model](images/Machine-Learning-Model.jpg)
 
 Now that's all very nice.
 
@@ -681,7 +684,7 @@ data driven decisions.
 
 The blueprint is focused on the five key areas: Connect, Buffer, Processing Frameworks, Store and Visualize.
 
-![Data Science Platform Blueprint](/images/Data-Science-Blueprint-New.jpg)
+![Data Science Platform Blueprint](images/Data-Science-Blueprint-New.jpg)
 
 Having the platform split like this turns it into a modular platform with
 loosely coupled interfaces.
@@ -1591,7 +1594,7 @@ database. An external analytics tool is querying data and uploading the
 results back to the SQL DB. Users then use the user interface to display
 data stored in the database.
 
-![Common SQL Platform Architecture](/images/Common-SQL-Architecture.jpg)
+![Common SQL Platform Architecture](images/Common-SQL-Architecture.jpg)
 
 Now, when the front end queries data from the SQL database the following
 three steps happen:
@@ -1630,7 +1633,7 @@ to the front end and analytics.
 
 In summary: Scaling up the system is fairly easy.
 
-![Scaling up a SQL Database](/images/SQL-Scaling-UP.jpg)
+![Scaling up a SQL Database](images/SQL-Scaling-UP.jpg)
 
 But with exponential growth it is obvious that sooner or later (more
 sooner than later) you will run into the same problems again. At some
@@ -1649,7 +1652,7 @@ network (SAN) to store the data. You can then use up to eight SQL
 servers (explain), attach them to the SAN and let them handle queries.
 This way load gets distributed between those eight servers.
 
-![Scaling out a SQL Database](/images/SQL-Scaling-Out.jpg)
+![Scaling out a SQL Database](images/SQL-Scaling-Out.jpg)
 
 One major downside of this setup is that, because the storage is shared
 between the SQL servers, it can only be used as an read only database.
@@ -1738,7 +1741,7 @@ connected with the Hadoop.
 It is not a complete list. There are many more tools that even I don't
 know. Maybe I am drawing a complete map in the future.
 
-![Hadoop Ecosystem Components](/images/Hadoop-Ecosystem.jpg)
+![Hadoop Ecosystem Components](images/Hadoop-Ecosystem.jpg)
 
 ### Hadoop Ecosystem Components
 
@@ -1750,7 +1753,7 @@ work together perfectly.
 
 Here's an example:
 
-![Connections between tools](/images/Hadoop-Ecosystem-Connections.jpg)
+![Connections between tools](images/Hadoop-Ecosystem-Connections.jpg)
 
 You use Apache Kafka to ingest data, and store the it in HDFS. You do
 the analytics with Apache Spark and as a backend for the display you
@@ -1782,7 +1785,7 @@ management.
 
 Flume can use Hadoop's YARN resource manager out of the box.
 
-![Flume Integration](/images/Hadoop-Ecosystem-Connections-Flume.jpg)
+![Flume Integration](images/Hadoop-Ecosystem-Connections-Flume.jpg)
 
 ### Hadoop Is Everywhere?
 
@@ -2002,7 +2005,7 @@ Doing the tax statement is a prime example of a batch process.
 Data comes in and gets stored, analytics loads the data from storage and
 creates an output (insight):
 
-![Batch Processing Pipeline](/images/Simple-Batch-Processing-Workflow.jpg)
+![Batch Processing Pipeline](images/Simple-Batch-Processing-Workflow.jpg)
 
 Batch processing is something you do either without a schedule or on a
 schedule (tax statement). It is used to ask the big questions and gain
@@ -2038,7 +2041,7 @@ access to fragments of data as it comes in.
 As a result the scope of the produced insight is also limited. Because
 the big picture is missing.
 
-![Stream Processing Pipeline](/images/Simple-Stream-Processing-Workflow.jpg)
+![Stream Processing Pipeline](images/Simple-Stream-Processing-Workflow.jpg)
 
 Only with streaming analytics you are able to create advanced services
 for the customer. Netflix for instance incorporated stream processing
@@ -2184,7 +2187,7 @@ run in parallel on your cluster machines.
 
 Here's an example how such a map and reduce process works with data:
 
-![Mapping of input files and reducing of mapped records](/images/MapReduce-Process-Detailed.jpg)
+![Mapping of input files and reducing of mapped records](images/MapReduce-Process-Detailed.jpg)
 
 #### How does MapReduce work
 
@@ -2255,7 +2258,7 @@ the one reducer who is handling all the values for this particular key.
 Every reducer input record then has a list of values and you can
 calculate (1+5+9)/3, (2+6+7)/3 and (3+4+8)/3. That's all.
 
-![MapReduce Example of Time Series Data](/images/MapReduce-Time-Series-example.jpg)
+![MapReduce Example of Time Series Data](images/MapReduce-Time-Series-example.jpg)
 
 What do you think you need to do to generate minute averages?
 
@@ -2278,7 +2281,7 @@ times the machines, the time to do the calculation would be the same.
 MapReduce is awesome for simpler analytics tasks, like counting stuff.
 It just has one flaw: It has only two stages Map and Reduce.
 
-![The Map Reduce Process](/images/MapReduce-Process.jpg)
+![The Map Reduce Process](images/MapReduce-Process.jpg)
 
 First MapReduce loads the data from HDFS into the mapping function.
 There you prepare the input data for the processing in the reducer.
@@ -2347,7 +2350,7 @@ question.
 To make it clear how Hadoop differs from Spark I created this simple
 feature table:
 
-![Hadoop vs Spark capabilities](/images/Table-Hadoop-and-Spark.jpg)
+![Hadoop vs Spark capabilities](images/Table-Hadoop-and-Spark.jpg)
 
 Hadoop is used to store data in the Hadoop Distributed File System
 (HDFS). It can analyse the stored data with MapReduce and manage
@@ -2457,7 +2460,7 @@ Spark can then natively identify on what data node the needed data is
 stored. This enables Spark to use the worker running on the machine
 where the data is stored to load the data into the memory.
 
-![Spark Using Hadoop Data Locality](/images/Spark-Data-Locality.jpg)
+![Spark Using Hadoop Data Locality](images/Spark-Data-Locality.jpg)
 
 The downside of this setup is that you need more expensive servers.
 Because Spark processing needs stronger servers with more RAM and CPUs
@@ -2565,7 +2568,7 @@ to your Hadoop and Spark processes.
 Having a single resource manager instead of two independent ones makes
 it a lot easier to configure the resource management.
 
-![Spark Resource Management With YARN](/images/Spark-Yarn.jpg)
+![Spark Resource Management With YARN](images/Spark-Yarn.jpg)
 
 ### Samza
 
@@ -2723,7 +2726,7 @@ It will not only store your file, Hadoop will also replicate it two or
 three times (you can define that). Replication means replicas of the
 file will be distributed to different servers.
 
-![HDFS Master and Data Nodes](/images/HDFS-Master-DataNodes.jpg)
+![HDFS Master and Data Nodes](images/HDFS-Master-DataNodes.jpg)
 
 This gives you superior fault tolerance. If one server goes down, then
 your data stays available on a different server.
@@ -2741,7 +2744,7 @@ splits the file into blocks.
 These blocks are then distributed and replicated on the Hadoop cluster.
 The splitting happens automatically.
 
-![Distribution of Blocks for a 512MB File](/images/HDFS-Distributed-FileSystem.jpg)
+![Distribution of Blocks for a 512MB File](images/HDFS-Distributed-FileSystem.jpg)
 
 In the configuration you can define how big the blocks should be. 128
 megabyte or 1 gigabyte?
@@ -3226,7 +3229,8 @@ Switch Processing from Zeppelin to Spark
 
 ### Move Zeppelin Code to Spark
 
-
+Case Studies
+=============
 
 How I do Case Studies
 ---------------------
@@ -3474,7 +3478,7 @@ The key components were Chuckwa, a scalable data collection system,
 Amazon S3 and Elastic MapReduce.
 
 ![Old Netflix Batch Processing
-Pipeline[]{label="fig:Bild1"}](/images/Netflix-Chuckwa-Pipeline.jpg){#fig:Bild1
+Pipeline[]{label="fig:Bild1"}](images/Netflix-Chuckwa-Pipeline.jpg){#fig:Bild1
 width="90%"}
 
 Chuckwa wrote incoming messages into Hadoop sequence files, stored in
@@ -3537,7 +3541,7 @@ What is currently being watched is only a part of the data that is used
 to generate "Trending Now".
 
 ![Netflix Trending Now
-Feature[]{label="fig:Bild1"}](/images/Netflix-Trending-Now-Screenshot.jpg){#fig:Bild1
+Feature[]{label="fig:Bild1"}](images/Netflix-Trending-Now-Screenshot.jpg){#fig:Bild1
 width="90%"}
 
 "Trending now" is created based on two types of data sources: Play
@@ -3582,7 +3586,7 @@ access to Cassandra and is making the data available to the Netflix
 client.
 
 ![Netflix Streaming
-Pipeline[]{label="fig:Bild1"}](/images/Netflix-Streaming-Pipeline.jpg){#fig:Bild1
+Pipeline[]{label="fig:Bild1"}](images/Netflix-Streaming-Pipeline.jpg){#fig:Bild1
 width="90%"}
 
 The algorithms how the analytics system is processing all this data is
@@ -3787,20 +3791,22 @@ Talk at Strata London slides:
 
 <https://jobs.zalando.com/tech/blog/complex-event-generation-for-business-process-monitoring-using-apache-flink/>
 
+Best Practices Cloud Platforms
+===============================
 
-# AWS
-## Connect
+## AWS
+### Connect
 - Elastic Beanstalk (very old)
 - SES Simple Email Service
 - API Gateway
-## Buffer
+### Buffer
 - Kinesis
 - Kinesis Data Firehose
 - Managed Streaming for Kafka (MSK)
 - MQ
 - Simple Queue Service (SQS)
 - Simple Notification Service (SNS)
-## Processing
+### Processing
 - EC2
 - Athena
 - EMR
@@ -3811,7 +3817,7 @@ Talk at Strata London slides:
 - Fargate
 - Lambda
 - SageMaker
-## Store
+### Store
 - Simple Storage Service (S3)
 - Redshift
 - Aurora
@@ -3821,15 +3827,15 @@ Talk at Strata London slides:
 - Neptune Graph DB
 - Timestream
 - DocumentDB (MongoDB compatible)
-## Visualize
+### Visualize
 - Quicksight
 
-## Containerization
+### Containerization
 - Elastic Container Service (ECS)
 - Elastic Container Registry (ECR)
 - Elastic Kubernetes Service (EKS)
 
-## Best Practices
+### Best Practices
 Deploying a Spring Boot Application on AWS Using AWS Elastic Beanstalk:
 
 [https://aws.amazon.com/de/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/](https://aws.amazon.com/de/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/)
@@ -3839,27 +3845,27 @@ How to deploy a Docker Container on AWS:
 [https://towardsdatascience.com/how-to-deploy-a-docker-container-python-on-amazon-ecs-using-amazon-ecr-9c52922b738f](https://towardsdatascience.com/how-to-deploy-a-docker-container-python-on-amazon-ecs-using-amazon-ecr-9c52922b738f)
 
 
-## More Details
+### More Details
 AWS Whitepapers:
 
 [https://d1.awsstatic.com/whitepapers/aws-overview.pdf](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
 
 
-# Azure
-## Connect
+## Azure
+### Connect
 - Event Hub
 - IoT Hub
-## Buffer
+### Buffer
 - Data Factory
 - Event Hub
 - RedisCache (also Store)
-## Processing
+### Processing
 - Stream Analytics Service
 - Azure Databricks
 - Machine Learning
 - Azure Functions
 - Azure HDInsight (Hadoop PaaS)
-## Store
+### Store
 - Blob
 - CosmosDB
 - MariaDB
@@ -3869,15 +3875,15 @@ AWS Whitepapers:
 - Azure Data lake
 - Azure Storage (SQL Table?)
 - Azure Synapse Analytics
-## Visualize
+### Visualize
 - PowerBI
-## Containerization
+### Containerization
 - Virtual Machines
 - Virtual Machine Scale Sets
 - Azure Container Service (AKS)
 - Container Instances
 - Azure Kubernetes Service
-## Best Practices
+### Best Practices
 
 Advanced Analytics Architecture:
 
@@ -3923,14 +3929,14 @@ Streaming using HDInsight:
 
 [https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/streaming-using-hdinsight](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/streaming-using-hdinsight)
 
-# GCP
-## Connect
+## GCP
+### Connect
 - Cloud IoT Core
 - App Engine
 - Cloud Dataflow
-## Buffer
+### Buffer
 - Pub/Sub
-## Processing
+### Processing
 - Compute Engine
 - Cloud Functions
 - Specialized tools:
@@ -3940,7 +3946,7 @@ Streaming using HDInsight:
   - Cloud Dataprep
   - Cloud Composer
 - App Engine
-## Store
+### Store
 - Cloud Storage
 - Cloud SQL
 - Cloud Spanner
@@ -3949,12 +3955,12 @@ Streaming using HDInsight:
 - Cloud Storage
 - Cloud Memorystore
 - BigQuery
-## Visualize
+### Visualize
 
-## Containerization
+### Containerization
 - Kubernetes Engine
 - Container Security
-## Best Practices
+### Best Practices
 
 Thanks to Ismail Holoubi for the following GCP links
 
